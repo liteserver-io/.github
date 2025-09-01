@@ -1,7 +1,3 @@
-<picture>
- <img alt="rqlite logo" src="../kqlite-logo-with-text.png" width='500px'>
-</picture>
-
 ## 
 
 **Lightweight remote SQLite with high availability and auto failover.**
