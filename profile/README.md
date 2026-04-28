@@ -1,5 +1,14 @@
 ## 
 
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/zitdb/zitdb/blob/main/zitdb-text.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zitdb/zitdb/blob/main/zitdb-text.png">
+ <p align="center">
+   <img alt="zitdb logo" src="https://github.com/zitdb/zitdb/blob/main/zitdb-text.png" width="500px">
+ </p>
+</picture>
+<br/><br/>
+
 **Lightweight remote SQLite with high availability and auto failover.**
 
 Remote accees to **SQLite** is done via the **PostgreSQL** wire protocol.<br>
